@@ -1,0 +1,9 @@
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\bin\Debug\netstandard2.0\KataRange.deps.json
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\bin\Debug\netstandard2.0\KataRange.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\bin\Debug\netstandard2.0\KataRange.pdb
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\obj\Debug\netstandard2.0\KataRange.csprojResolveAssemblyReference.cache
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\obj\Debug\netstandard2.0\KataRange.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\obj\Debug\netstandard2.0\KataRange.AssemblyInfoInputs.cache
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\obj\Debug\netstandard2.0\KataRange.AssemblyInfo.cs
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\obj\Debug\netstandard2.0\KataRange.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange\obj\Debug\netstandard2.0\KataRange.pdb

@@ -1,0 +1,17 @@
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.Tests.deps.json
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.Tests.runtimeconfig.json
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.Tests.runtimeconfig.dev.json
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.Tests.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.Tests.pdb
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\bin\Debug\netcoreapp2.0\KataRange.pdb
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.AssemblyInfoInputs.cache
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.AssemblyInfo.cs
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.csproj.CopyComplete
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.dll
+C:\Users\hecto\Documents\projects\kata\katarange\KataRange.Tests\obj\Debug\netcoreapp2.0\KataRange.Tests.pdb
